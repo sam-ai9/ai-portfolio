@@ -1,102 +1,64 @@
-# ai-portfolio
-My AI learning journey: projects, notes, and practice.
 
-Welcome to my AI Engineering portfolio!  
-I am sam H
+# AI Engineering Portfolio — Sam H
 
-I am currently learning Artificial Intelligence, Applied AI, and Prompt Engineering with the goal of becoming a skilled AI Engineer, and building a strong career in the AI industry.
+Welcome to my AI Engineering learning portfolio!  
+This repository documents my journey from complete beginner to future AI Engineer.  
+Here I share my practice projects, experiments, notes, and progress as I build the foundations of Applied AI, Machine Learning, and Prompt Engineering.
 
-\## 🧠 About Me 
+---
 
-\- 🌱 I am at the beginning of my AI learning journey.
+## 🚀 About Me
+- Student of **AI Engineering**  
+- Currently learning Python, AI fundamentals, and practical applied AI tools  
+- Building small, beginner-friendly projects to develop real-world engineering skills  
+- Focused on hands-on learning and continuous improvement  
+- Open to collaboration, feedback, and connecting with other learners and professionals  
 
-\- 🎯 My goal: master AI applied science, AI engineering, and deeplearning.
+---
 
-\- 💼 I’m building this portfolio to showcase my progress, skills, and future projects.
+## 📁 Portfolio Overview
 
-\- 📚 Learning from platforms such as Coursera, DeepLearning.AI, and others.
+### **/projects**
+Practical, beginner-level AI Engineering projects, such as:
+- Python automation scripts  
+- AI mini tools  
+- Data processing exercises  
+- Intro machine learning demos  
+- Prompt engineering experiments  
 
-\- 🤝 Open to collaboration, feedback, and connecting with professionals.
-
-\## 🗂 Portfolio Structure
-
-This repository will include:
-
-
-
-\### \*\*📁 /projects\*\*
-
-Small and large AI-related projects as I learn:
-
-\- AI mini tools  
-
-\- AI engineering experiments  
-
-\- Small machine learning demos  
-
-\- Applied AI use cases  
-
-
-
-\### \*\*📁 /notebooks\*\*
-
+### **/notebooks**
 Jupyter notebooks for:
+- course notes  
+- coding exercises  
+- model experiments  
+- learning summaries  
 
-\- Learning exercises  
+### **/prompts**
+A growing collection of:
+- effective prompts I create  
+- experiment results  
+- prompt design techniques  
 
-\- Experiments  
+### **/assets**
+Screenshots, diagrams, images, and supporting files.
 
-\- Notes and tutorials I follow  
+## 🛠 Skills & Tools I’m Learning (AI Engineering Path)
+- Python (beginner → intermediate)  
+- Git & GitHub  
+- AI fundamentals  
+- Machine Learning basics  
+- Data handling & preprocessing  
+- Prompt Engineering  
+- AI tools (ChatGPT, Claude, etc.)  
 
-
-
-\### \*\*📁 /prompts\*\*
-
-A collection of:
-
-\- My best prompts  
-
-\- Experiment results  
-
-\- AI engineering techniques  
-
-
-
-\### \*\*📁 /assets\*\*
-
-Images, diagrams, or visuals for my projects.
-
-
-\## 🛠 Technologies I Am Learning
-
-\- Python (beginner)
-
-\- AI fundamentals  
-
-\- Machine Learning basics  
-
-\- Prompt engineering  
-
-\- AI tools like ChatGPT, Claude, etc.  
-
-\- GitHub (for sharing my progress)
-
-
-\## 📈 My Learning Roadmap (Current Stage)
-
-1\. Learn Python basics  
-
-2\. Learn AI fundamentals  
-
-3\. Build small AI mini-projects  
-
-4\. Practice prompt engineering  
-
-5\. Strengthen GitHub portfolio  
-
-6\. Take AI courses + earn certificates  
-
-7\. Apply skills in real projects  
+## 📈 My AI Engineering Roadmap
+1. Learn Python programming  
+2. Understand core AI Engineering concepts  
+3. Build simple AI mini projects  
+4. Learn machine learning fundamentals  
+5. Create a strong GitHub portfolio  
+6. Complete AI Engineering courses  
+7. Apply knowledge to real projects & freelance work  
 
 
 \## 📬 Contact
