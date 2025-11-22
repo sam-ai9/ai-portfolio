@@ -1,34 +1,22 @@
 # ai-portfolio
 My AI learning journey: projects, notes, and practice.
 
-Welcome to my AI \& Prompt Engineering portfolio!  
+Welcome to my AI Engineering portfolio!  
 I am sam H
 
-I am currently learning Artificial Intelligence, Applied AI, and Prompt Engineering with the goal of becoming a skilled AI professional and building a strong career in the AI industry.
-
-
-
----
-
-
+I am currently learning Artificial Intelligence, Applied AI, and Prompt Engineering with the goal of becoming a skilled AI Engineer, and building a strong career in the AI industry.
 
 \## 🧠 About Me 
 
 \- 🌱 I am at the beginning of my AI learning journey.
 
-\- 🎯 My goal: master AI applied science, prompt engineering, and practical AI tools.
+\- 🎯 My goal: master AI applied science, AI engineering, and deeplearning.
 
 \- 💼 I’m building this portfolio to showcase my progress, skills, and future projects.
 
 \- 📚 Learning from platforms such as Coursera, DeepLearning.AI, and others.
 
 \- 🤝 Open to collaboration, feedback, and connecting with professionals.
-
-
-
----
-
-
 
 \## 🗂 Portfolio Structure
 
@@ -42,7 +30,7 @@ Small and large AI-related projects as I learn:
 
 \- AI mini tools  
 
-\- Prompt engineering experiments  
+\- AI engineering experiments  
 
 \- Small machine learning demos  
 
@@ -70,18 +58,13 @@ A collection of:
 
 \- Experiment results  
 
-\- Prompt engineering techniques  
+\- AI engineering techniques  
 
 
 
 \### \*\*📁 /assets\*\*
 
 Images, diagrams, or visuals for my projects.
-
-
-
----
-
 
 
 \## 🛠 Technologies I Am Learning
@@ -97,11 +80,6 @@ Images, diagrams, or visuals for my projects.
 \- AI tools like ChatGPT, Claude, etc.  
 
 \- GitHub (for sharing my progress)
-
-
-
----
-
 
 
 \## 📈 My Learning Roadmap (Current Stage)
@@ -121,27 +99,15 @@ Images, diagrams, or visuals for my projects.
 7\. Apply skills in real projects  
 
 
-
----
-
-
-
 \## 📬 Contact
 
 If you’d like to connect, collaborate, or follow my progress:
-
-
 
 \- \*\*LinkedIn:\*\* https://www.linkedin.com/in/sam-h-a687a0399/ 
 
 \- \*\*GitHub:\*\* https://github.com/sam-ai9 
 
 \- \*\*Email:\*\* sam.ai.fintech@gmail.com
-
-
-
----
-
 
 
 \### ⭐ Thank you for visiting my portfolio!  
